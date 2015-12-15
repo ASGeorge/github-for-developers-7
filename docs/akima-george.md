@@ -3,3 +3,4 @@
 **A favorite food:** pizza
 **A hobby:** knitting
 **Favorite color:** yellow not blue
+**Occupation:** student
